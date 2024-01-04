@@ -1,0 +1,533 @@
+2023-11-16T06:44:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:44:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:44:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:05+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:06+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:45:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:47:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:49:00+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:49:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:51:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:51:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:52:02+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:52:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:56:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T06:58:21+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T07:03:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T07:03:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T07:04:10+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:102
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 102
+
+2023-11-16T07:10:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:103
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 103
+
+2023-11-16T07:10:30+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:103
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 103
+
+2023-11-16T07:19:55+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:106
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 106
+
+2023-11-16T07:20:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:106
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 106
+
+2023-11-16T07:20:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:106
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 106
+
+2023-11-16T07:21:02+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:106
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 106
+
+2023-11-16T07:56:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "enqueue_custom_scripts_and_styles" not found or invalid function name in C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\site3\wp-includes\script-loader.php(2262): do_action('wp_enqueue_scri...')
+#3 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#4 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\site3\wp-includes\general-template.php(3052): do_action('wp_head')
+#7 C:\xampp\htdocs\site3\wp-content\themes\astra\header.php(31): wp_head()
+#8 C:\xampp\htdocs\site3\wp-includes\template.php(790): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\site3\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#10 C:\xampp\htdocs\site3\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(22): get_header('shop')
+#12 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#15 {main}
+  thrown in C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php on line 324
+
+2023-11-16T09:23:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string + int in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:112
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 112
+
+2023-11-16T09:24:03+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string + int in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:112
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): save_special_quota('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save_sp...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php on line 112
+

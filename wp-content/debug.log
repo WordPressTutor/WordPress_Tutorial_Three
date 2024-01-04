@@ -1,0 +1,9 @@
+[27-Nov-2023 06:40:00 UTC] PHP Fatal error:  Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, string given in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Sound-field\custom-sound.php:213
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\Custom-Sound-field\custom-sound.php(213): array_map('sanitize_text_f...', 'Sound 8')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): csf_save_sound_data_ajax('')
+#2 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_csf_sav...')
+#5 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Sound-field\custom-sound.php on line 213
