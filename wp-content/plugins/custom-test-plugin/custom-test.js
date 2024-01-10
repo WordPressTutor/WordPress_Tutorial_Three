@@ -23,3 +23,10 @@ jQuery(document).ready(function($) {
         }
     });
 });
+
+function applyFilters() {
+    var orderby = document.getElementById("orderby").value;
+    var order = document.getElementById("order").value;
+    var url = window.location.href.split("?")[0];
+    window.location.href = url + "?orderby=" + orderby + "&order=" + order;
+}
