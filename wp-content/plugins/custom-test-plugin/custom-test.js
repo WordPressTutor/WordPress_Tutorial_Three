@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
                 }
             });
         } else {
-            console.log("Max pages reached. No more posts to load."); // Debugging line
+            console.log("Max pages reached. No more posts to load."); 
         }
     });
 });

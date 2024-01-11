@@ -84,10 +84,6 @@ function custom_test_shortcode() {
     return $output;
 }
 add_shortcode('custom_test', 'custom_test_shortcode');
-
-// JavaScript function to handle filter application
-
-// AJAX handler for fetching posts
 function load_more_posts() {
     $paged = $_POST['page'];
     $args = array(
@@ -113,8 +109,6 @@ function load_more_posts() {
         }
         wp_reset_postdata(); 
     }
-
-    // Always remember to die() at the end of your AJAX function.
     die();
 }
 add_action('wp_ajax_load_more_posts', 'load_more_posts');
