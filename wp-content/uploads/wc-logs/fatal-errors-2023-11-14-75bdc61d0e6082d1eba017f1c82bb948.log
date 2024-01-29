@@ -1,4 +1,0 @@
-2023-11-14T15:58:49+00:00 CRITICAL Cannot redeclare enqueue_custom_script() (previously declared in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:10) in C:\xampp\htdocs\site3\wp-content\themes\astra\functions.php on line 187
-
-2023-11-14T15:58:52+00:00 CRITICAL Cannot redeclare enqueue_custom_script() (previously declared in C:\xampp\htdocs\site3\wp-content\plugins\Custom-Get-Special-Quota\custom-get-quota.php:10) in C:\xampp\htdocs\site3\wp-content\themes\astra\functions.php on line 187
-

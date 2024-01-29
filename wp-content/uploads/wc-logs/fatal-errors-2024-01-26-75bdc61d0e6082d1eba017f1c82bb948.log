@@ -1,0 +1,50 @@
+2024-01-26T14:37:27+00:00 CRITICAL Unclosed '{' on line 278 in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php on line 387
+
+2024-01-26T15:25:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_user_country_code() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php:283
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\main-reviews.php(11): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\main-reviews.php(33): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php on line 283
+
+2024-01-26T15:30:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_country_code_by_ip() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php:287
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\main-reviews.php(11): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\main-reviews.php(33): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php on line 287
+
+2024-01-26T16:43:20+00:00 CRITICAL syntax error, unexpected identifier "code" in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin\templates\template-reviews.php on line 574
+

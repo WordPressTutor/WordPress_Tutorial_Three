@@ -112,3 +112,6 @@ function registeration_form()
 add_shortcode('registeration-form', 'registeration_form');
 
 
+
+
+

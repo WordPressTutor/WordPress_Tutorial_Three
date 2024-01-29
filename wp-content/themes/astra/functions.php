@@ -183,3 +183,13 @@ require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
 
 
+// add_filter( 'woocommerce_product_tabs', 'remove_reviews_tab', 98 );
+
+// function remove_reviews_tab( $tabs ) {
+//     unset( $tabs['reviews'] );
+//     return $tabs;
+// }
+
+
+
+

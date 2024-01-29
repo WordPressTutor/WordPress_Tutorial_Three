@@ -1,0 +1,151 @@
+2024-01-28T15:24:04+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php:170
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): load_more_reviews('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_load_mo...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php on line 170
+
+2024-01-28T15:26:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php:170
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): load_more_reviews('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_load_mo...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php on line 170
+
+2024-01-28T15:36:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php:170
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): load_more_reviews('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_load_mo...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php on line 170
+
+2024-01-28T15:36:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php:170
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): load_more_reviews('')
+#1 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\site3\wp-admin\admin-ajax.php(188): do_action('wp_ajax_load_mo...')
+#4 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php on line 170
+
+2024-01-28T16:08:30+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php:16
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(12): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(45): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php on line 16
+
+2024-01-28T17:03:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_like_count() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php:477
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(12): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(45): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php on line 477
+
+2024-01-28T17:04:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_like_count() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php:477
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(12): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(45): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php on line 477
+
+2024-01-28T17:06:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_like_count() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php:359
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(12): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(45): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php on line 359
+
+2024-01-28T17:10:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_like_count() in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php:359
+Stack trace:
+#0 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(12): include()
+#1 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(433): custom_reviews_shortcode('', '', 'custom_reviews_...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\xampp\htdocs\site3\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(custom...', 'do_shortcode_ta...', '[custom_reviews...')
+#4 C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\main-reviews.php(45): do_shortcode('[custom_reviews...')
+#5 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product\tabs\tabs.php(47): display_custom_reviews_tab_content('custom_reviews_...', Array)
+#6 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1632): wc_get_template('single-product/...')
+#8 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(324): woocommerce_output_product_data_tabs('')
+#9 C:\xampp\htdocs\site3\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\site3\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\content-single-product.php(72): do_action('woocommerce_aft...')
+#12 C:\xampp\htdocs\site3\wp-includes\template.php(792): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\xampp\\htdocs...', false)
+#14 C:\xampp\htdocs\site3\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#15 C:\xampp\htdocs\site3\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#16 C:\xampp\htdocs\site3\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#17 C:\xampp\htdocs\site3\index.php(17): require('C:\\xampp\\htdocs...')
+#18 {main}
+  thrown in C:\xampp\htdocs\site3\wp-content\plugins\custom-review-plugin-1\templates\template-reviews.php on line 359
+
